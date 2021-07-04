@@ -29,4 +29,4 @@ Mencione as ferramentas que você usou para criar seu projeto
 * [Express](https://expressjs.com/pt-br/) - Framework web
 * [bcrypt.js](https://github.com/dcodeIO/bcrypt.js) - Criptografia em Node JS
 * [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken#readme) - JWT
-* [jsonwebtoken](https://github.com/wclr/ts-node-dev#readme) - Execução em tempo de desenvolvimento
+* [ts-node-dev](https://github.com/wclr/ts-node-dev#readme) - Execução em tempo de desenvolvimento
