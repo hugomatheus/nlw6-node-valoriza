@@ -9,9 +9,7 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
 ```
 yarn
